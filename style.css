@@ -1,0 +1,64 @@
+
+body {
+    background-image: linear-gradient(135deg, #0038FF, #E48F41);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center;
+}
+
+#photo {
+    background-image: url(./assets/photos/photo-profile.avif);
+    height: 15.94rem;
+    width: 15.94rem;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin-bottom: 1.69rem;
+}
+
+h1 {
+    color: #FFF;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1.69rem;
+}
+
+.buttonSocial {
+    border-radius: 3.16rem;
+    border: none;
+    width: 15.94rem;
+    background-color: #00000020;
+    margin-bottom: 1.69rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.3s;
+    
+
+    img {
+       height: 3.125rem; 
+    }
+
+    p{
+        font-weight: 500;
+        font-size: 1.125rem;
+        color: #FFF;
+        line-height: 1.125rem;
+    }
+
+}
+
+.buttonSocial:hover {
+    background-color: black;
+}
+
