@@ -1,11 +1,11 @@
 # Projeto-site-links
  Este é um projeto simples de um site de links utilizando HTML e CSS, seguindo um tutorial do curso Frontend com Bia Codes.
 
-## :page_facing_up:	Visão Geral
+##	Visão Geral
 
 O site apresenta uma interface centralizada com um fundo gradiente, uma foto de perfil circular e botões estilizados para diferentes redes sociais. A ideia é criar um ponto central onde os visitantes podem acessar facilmente suas redes sociais. 
 
-## Estrutura do Projeto
+## :page_facing_up: Estrutura do Projeto
 
 * `index.html`: Estrutura principal do site.
 * `style.css`: Estilos e layout do site.
